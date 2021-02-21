@@ -1,0 +1,12 @@
+<mat-toolbar color="primary" class="navbar">
+    <mat-toolbar-row class="searchBar">
+        <form class="form-inline md-form mr-auto mb-4 searchBar">
+            <input #newQuery class="form-control mr-sm-2" type="text" placeholder="Search Query" aria-label="Search">
+            <button (click)="searchNewQuery(newQuery.value)" mat-button class="btn btn success">Search</button>
+          </form>
+    </mat-toolbar-row>
+</mat-toolbar>
+
+
+
+  

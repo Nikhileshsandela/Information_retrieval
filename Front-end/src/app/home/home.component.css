@@ -1,0 +1,22 @@
+
+  .mat-tab-group {
+    margin-bottom: 48px;
+  }
+
+  .navbar{
+    background: rgb(44, 56, 167);
+    color: white;
+    border-radius: 0mm;
+    height: 100px;
+    margin: 0px;
+  }
+
+  .btn{
+    margin-left: 5px;
+    width: fit-content;
+    background-color:rgb(118, 125, 187);
+    font-display:red;
+
+  }
+
+  
