@@ -7,7 +7,7 @@
 * After indexing the file by Solr, the user can enter their query and search query and the top relevant results will be shown on the screen with the rank assigned to the document.
 
 ## Technologies used during the development
----------------------------
+
 ### Frontend
 1. Angular
 2. Apache Solr
@@ -18,8 +18,11 @@
 3. Lucene-8.7.0
 
 ## Angular project
----------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+
+### Code scaffolding
+Run `ng generate` component `component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ### Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
